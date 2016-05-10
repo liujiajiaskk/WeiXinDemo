@@ -1,0 +1,10 @@
+
+WebRoot/WEB-INF/classes/entity/TextMessage.class
+
+WebRoot/WEB-INF/classes/servlet/weixin.class
+
+WebRoot/WEB-INF/classes/utilities/checkFunc.class
+
+WebRoot/WEB-INF/classes/utilities/messageUtil.class
+
+WebRoot/WEB-INF/classes/utilities/sha1.class
