@@ -22,5 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     This is my JSP page. <br>
+    <a href="http://www.imooc.com">慕课网</a>
   </body>
 </html>
